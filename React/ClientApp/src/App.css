@@ -2,9 +2,11 @@
     display: block;
     width: 20%;
     margin: auto;
-    margin-top: 15%;
+    margin-top: 10%;
     background-color: #eaeaea;
     padding: 20px;
+    border-radius: 2px;
+    font-family: -apple-system, BlinkMacSystemFont, Arial;
 }
 
 .NotFound {
